@@ -1,5 +1,10 @@
 venv/
 __pycache__/
-*.pyc
-data/processed/
+src/__pycache__/
+.ipynb_checkpoints/
+
 reports/figures/
+*.parquet
+
+data/raw/
+data/processed/
